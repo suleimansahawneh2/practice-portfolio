@@ -7,6 +7,9 @@ baseurl: /practice-portfolio
 url: https://suleimansahawneh2.github.io
 repository: suleimansahawneh2/practice-portfolio
 
+titles_from_headings:
+  enabled: false
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
@@ -16,6 +19,12 @@ author:
   avatar: /assets/img/avatar.png
   bio: Pricing analytics, Python, SQL, Power BI.
   location: San Marcos, CA
+  links:
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/suleimansahawneh2
+
+footer:
   links:
     - label: GitHub
       icon: fab fa-fw fa-github
