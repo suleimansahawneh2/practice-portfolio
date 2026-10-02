@@ -4,7 +4,7 @@ layout: default
 
 # Suleiman Sahawneh
 
-**Data-driven problem solver | Pricing analytics | Industrial engineer turned analytics grad student | Captain of Jordan's national flag & American football team**
+**Data-driven problem solver, pricing analytics, industrial engineer turned analytics grad student, captain of Jordan's national flag & American football team**
 
 [GitHub](https://github.com/suleimansahawneh2)
 
