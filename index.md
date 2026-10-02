@@ -1,10 +1,9 @@
 ---
 layout: single
-title: Suleiman Sahawneh
 author_profile: true
 ---
 
-# Hi, I'm Suleiman
+# Suleiman Sahawneh
 
 I'm an industrial engineer who got into pricing analytics, and I'm now a grad student in business analytics. I also captain Jordan's national flag and American football team.
 
