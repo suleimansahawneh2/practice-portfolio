@@ -8,11 +8,11 @@ classes: wide
 
 ## E-portfolio website
 
-This site is my first project in my MS program. I built it with Jekyll and the Minimal Mistakes theme and host it on GitHub Pages.
+A resume site built with Jekyll and the Minimal Mistakes theme and hosted on GitHub Pages.
 
-- Set up the theme in `_config.yml`
-- Wrote my resume in Markdown
-- Added a navigation menu and this projects page
-- Deployed it with GitHub Pages and checked the build in the Actions tab
+- Theme and site settings are in `_config.yml`
+- The resume is written in Markdown
+- The top menu is set up in `_data/navigation.yml`
+- GitHub Pages builds and deploys it from the main branch
 
 [View the source code](https://github.com/suleimansahawneh2/practice-portfolio)
