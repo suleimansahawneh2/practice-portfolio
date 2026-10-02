@@ -18,13 +18,13 @@ I like taking messy data and figuring out what it says. I spent a year and a hal
 
 ### Analytics & Consulting
 
-- **Executive, Process & Performance Optimization**, Australia Post (Apr 2025 - Aug 2026): used Power Automate to automate our analysis work, which made the team **35%** more efficient
-- **Junior Management Consultant Intern, HR**, Vantage Consulting (Oct 2024 - Dec 2024): built competency frameworks and job architecture models
+- **Executive, Process & Performance Optimization**, Australia Post (Apr 2025 – Aug 2026): used Power Automate to automate our analysis work, which made the team **35%** more efficient
+- **Junior Management Consultant Intern, HR**, Vantage Consulting (Oct 2024 – Dec 2024): built competency frameworks and job architecture models
 
 ### Operations & Marketing
 
-- **Operations Manager & Digital Marketing Lead**, Omar Aburob YouTube Channel (Jan 2024 - Jun 2024): raised viewer retention by **40%**
-- **Catering Operations Supervisor**, Canobie Lake Park (Jun 2023 - Sep 2023): led a team of 6 and cut waste by **15%**
+- **Operations Manager & Digital Marketing Lead**, Omar Aburob YouTube Channel (Jan 2024 – Jun 2024): raised viewer retention by **40%**
+- **Catering Operations Supervisor**, Canobie Lake Park (Jun 2023 – Sep 2023): led a team of 6 and cut waste by **15%**
 
 ## Education
 
@@ -46,4 +46,4 @@ I like taking messy data and figuring out what it says. I spent a year and a hal
 
 - **Team Captain**, Jordan National Team (Flag & American Football)
 - **Conference Organizer**, IISE University of Jordan: ran two industry events with 370+ attendees
-- **Scout Member**, Jordan Catholic Scouts (2009 - present)
+- **Scout Member**, Jordan Catholic Scouts (2009 – present)
