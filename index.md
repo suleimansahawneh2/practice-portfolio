@@ -1,7 +1,5 @@
 ---
-layout: single
-author_profile: true
-classes: wide
+layout: default
 ---
 
 # Suleiman Sahawneh
