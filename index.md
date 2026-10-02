@@ -1,33 +1,39 @@
 ---
-layout: default
+layout: single
+title: Suleiman Sahawneh
+author_profile: true
 ---
 
-# Suleiman Sahawneh
+# Hi, I'm Suleiman
 
-**Data-driven problem solver, pricing analytics, industrial engineer turned analytics grad student, captain of Jordan's national flag & American football team**
+I'm an industrial engineer who got into pricing analytics, and I'm now a grad student in business analytics. I also captain Jordan's national flag and American football team.
 
 [GitHub](https://github.com/suleimansahawneh2)
 
 ## About
 
-I turn messy data into clear decisions, with a year and a half in *pricing analytics* at Australia Post. I'm now pursuing an MS in Business Analytics, combining an engineering mindset with `Python`, `SQL`, Power BI, and AI.
+I like taking messy data and figuring out what it says. I spent a year and a half doing *pricing analytics* at Australia Post. Now I'm working on my MS in Business Analytics, using my engineering background along with `Python`, `SQL`, Power BI, and AI tools.
 
 ## Experience
 
 ### Analytics & Consulting
 
-- **Executive, Process & Performance Optimization**, Australia Post (Apr 2025 - Aug 2026): automated analysis with Power Automate, improving efficiency by **35%**
-- **Junior Management Consultant Intern, HR**, Vantage Consulting (Oct 2024 - Dec 2024): designed competency frameworks and job architecture models
+- **Executive, Process & Performance Optimization**, Australia Post (Apr 2025 - Aug 2026): used Power Automate to automate our analysis work, which made the team **35%** more efficient
+- **Junior Management Consultant Intern, HR**, Vantage Consulting (Oct 2024 - Dec 2024): built competency frameworks and job architecture models
 
 ### Operations & Marketing
 
-- **Operations Manager & Digital Marketing Lead**, Omar Aburob YouTube Channel (Jan 2024 - Jun 2024): grew viewer retention by **40%**
+- **Operations Manager & Digital Marketing Lead**, Omar Aburob YouTube Channel (Jan 2024 - Jun 2024): raised viewer retention by **40%**
 - **Catering Operations Supervisor**, Canobie Lake Park (Jun 2023 - Sep 2023): led a team of 6 and cut waste by **15%**
 
 ## Education
 
 1. **MS, Business Analytics**, California State University San Marcos (expected Summer 2027)
 2. **BS, Industrial Engineering**, University of Jordan
+
+## Projects
+
+- **This e-portfolio**: built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages. [Source code](https://github.com/suleimansahawneh2/practice-portfolio)
 
 ## Skills
 
@@ -39,5 +45,5 @@ I turn messy data into clear decisions, with a year and a half in *pricing analy
 ## Leadership
 
 - **Team Captain**, Jordan National Team (Flag & American Football)
-- **Conference Organizer**, IISE University of Jordan: two industry events, 370+ attendees
+- **Conference Organizer**, IISE University of Jordan: ran two industry events with 370+ attendees
 - **Scout Member**, Jordan Catholic Scouts (2009 - present)
